@@ -1,0 +1,8 @@
+{
+  "name": "CogniCut Video Agent",
+  "nodes": [
+    { "type": "webhook" },
+    { "type": "httpRequest" },
+    { "type": "respondToWebhook" }
+  ]
+}
